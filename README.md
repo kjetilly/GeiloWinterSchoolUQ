@@ -4,9 +4,9 @@ Coding examples for the Geilo Winter School 2026.
 ## Running on Sigma2/Olivia
 See [Sigma2 setup guide](https://md.sigma2.no/s/1wxwWlLjG) for instructions on how to set up your environment on Sigma2. 
 
-Once you have everything set up, JupyterLab session from apps.olivia.sigma2.no, open a new terminal and clone this repository:
+Once you have everything set up, JupyterLab session from apps.olivia.sigma2.no, open a new notebook and clone this repository:
 ```
-git clone https://github.com/kjetilly/GeiloWinterSchoolUQ.git
+!git clone https://github.com/kjetilly/GeiloWinterSchoolUQ.git
 ```
 Navigate to the cloned directory and open `notebooks/basic_monte_carlo.ipynb` to get started.
 ```
