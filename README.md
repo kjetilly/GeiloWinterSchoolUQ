@@ -9,7 +9,7 @@ Once you have everything set up, JupyterLab session from apps.olivia.sigma2.no, 
 !git clone https://github.com/kjetilly/GeiloWinterSchoolUQ.git
 ```
 Navigate to the cloned directory and open `notebooks/basic_monte_carlo.ipynb` to get started.
-```
+
 ## Setup locally
 To run the code examples locally, you need to have Julia and Jupyter installed. To install Julia, follow the instructions on the [official Julia website](https://julialang.org/downloads/). 
 
