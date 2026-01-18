@@ -6,7 +6,7 @@ See [Sigma2 setup guide](https://md.sigma2.no/s/1wxwWlLjG) for instructions on h
 
 Once you have everything set up, JupyterLab session from apps.olivia.sigma2.no, open a new notebook and clone this repository:
 ```
-!git clone https://github.com/kjetilly/GeiloWinterSchoolUQ.git
+;git clone https://github.com/kjetilly/GeiloWinterSchoolUQ.git
 ```
 Navigate to the cloned directory and open `notebooks/basic_monte_carlo.ipynb` to get started.
 
